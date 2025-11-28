@@ -32,7 +32,7 @@ Destaques do Módulo:
 
 # ✨ Criação de Landing Pages com scroll interativo e efeito Parallax. #
 
-# 🗄️ Modelagem de Banco de Dados#
+# 🗄️ Modelagem de Banco de Dados #
 Foco: Estruturação, integridade e consulta de dados relacionais.
 
 Techs: SQL MER Normalização brModelo
