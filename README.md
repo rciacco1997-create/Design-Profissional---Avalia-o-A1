@@ -28,9 +28,6 @@ HTML5 (Estrutura Semântica) CSS3 (Estilização Moderna) Flexbox (Layout Respon
 
 Destaques do Módulo:
 
-# 📱 Implementação da metodologia Mobile-First para layouts adaptativos. #
-
-
 # 🗄️ Modelagem de Banco de Dados #
 Foco: Estruturação, integridade e consulta de dados relacionais.
 
