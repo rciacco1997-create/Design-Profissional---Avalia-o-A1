@@ -36,4 +36,14 @@ Destaque: 🎓 Sistema de Gestão Acadêmica (Modelagem Completa).
 
 # ⚙️ Algoritmos e Pensamento Computacional #
 
+Foco: Performance, estruturas de dados e resolução de problemas complexos.
+
+Techs: Linguagem C Structs Análise Assintótica Ponteiros
+Destaque: 🧮 Calculadora Científica & 📉 Análise de Performance Bubble Sort.
+
 # 💼 Design Profissional #
+
+Foco: Posicionamento de mercado, ética e sustentabilidade em TI.
+
+Temas: Green IT Escrita Técnica Design Profissional
+Destaque: ♻️ Infográfico sobre Lixo Eletrônico & Portfólio Estruturado.
