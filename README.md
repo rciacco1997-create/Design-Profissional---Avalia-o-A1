@@ -33,3 +33,7 @@ Foco: Estruturação, integridade e consulta de dados relacionais.
 
 Techs: SQL MER Normalização brModelo
 Destaque: 🎓 Sistema de Gestão Acadêmica (Modelagem Completa).
+
+# ⚙️ Algoritmos e Pensamento Computacional #
+
+# 💼 Design Profissional #
