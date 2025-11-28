@@ -30,7 +30,6 @@ Destaques do Módulo:
 
 # 📱 Implementação da metodologia Mobile-First para layouts adaptativos. #
 
-# ✨ Criação de Landing Pages com scroll interativo e efeito Parallax. #
 
 # 🗄️ Modelagem de Banco de Dados #
 Foco: Estruturação, integridade e consulta de dados relacionais.
